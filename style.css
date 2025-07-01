@@ -461,27 +461,27 @@ body {
 
 /* Add background images for each destination */
 .destination-image.dam {
-    background-image: url('images/hirakud-resorvoir.png');
+    background-image: url('images/hirakud-resorvoir.PNG');
 }
 
 .destination-image.temple {
-  background-image: url('images/humatemple.png');
+  background-image: url('images/humatemple.PNG');
 }
 
 .destination-image.wildlife {
-    background-image: url('images/debrigarh.png');
+    background-image: url('images/debrigarh.PNG');
 }
 
 .destination-image.heritage {
-    background-image: url('images/samleswaritemple.png');
+    background-image: url('images/samleswaritemple.PNG');
 }
 
 .destination-image.waterfall {
-    background-image: url('images/gudguda.png');
+    background-image: url('images/gudguda.PNG');
 }
 
 .destination-image.lake {
-    background-image: url('images/rightdyke.png');
+    background-image: url('images/rightdyke.PNG');
 }
 
 .destination-content {
